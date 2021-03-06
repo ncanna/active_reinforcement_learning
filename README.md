@@ -4,6 +4,7 @@ Semantic segmentation, the process of acquiring pixel-by-pixel data labels, requ
 Specifically, the segmentation of nuclei in cells via active reinforcement learning will be explored via pathology datasets sourced from either existing cardiovascular fluorescent microscopy images utilized by the Owen’s Lab or publicly available histopathology datasets such as the Multi-organ nuclei segmentation (MoNuSeg) image set explored by Kumar et al (2020). 
 
 References
+
 Casanova, A., Pinheiro, P. O., Rostamzadeh, N., & Pal, C. J. (2020). Reinforced active              
              learning for image segmentation. arXiv preprint arXiv:2002.06583.
 Zwerger M, Ho CY, Lammerding J. Nuclear mechanics in disease. Annu Rev Biomed Eng.             
