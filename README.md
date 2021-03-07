@@ -7,11 +7,14 @@ References
 
 Casanova, A., Pinheiro, P. O., Rostamzadeh, N., & Pal, C. J. (2020). Reinforced active              
              learning for image segmentation. arXiv preprint arXiv:2002.06583.
+             
 Zwerger M, Ho CY, Lammerding J. Nuclear mechanics in disease. Annu Rev Biomed Eng.             
              2011;13:397-428. doi:10.1146/annurev-bioeng-071910-124736 
+             
 Sampias, Rolls, H&E Staining Overview: A Guide to Best Practices, 
              https://www.leicabiosystems.com/knowledge-pathway/he-staining-overview-a-guide-to-best-
              practics/
+             
 N. Kumar et al., "A Multi-Organ Nucleus Segmentation Challenge," in IEEE Transactions on 
              Medical Imaging, vol. 39, no. 5, pp. 1380-1391, May 2020, doi: 10.1109/TMI.2019.2947628.
 
