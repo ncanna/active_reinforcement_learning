@@ -1,6 +1,5 @@
 *.iml
 *.pyc
-*.m
 *.DS_Store
 *.vbb
 *.csv
